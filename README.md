@@ -1,0 +1,1 @@
+The Contact Book App is a simple and efficient Python-based application. Built using Python fundamentals, it serves as an ideal project for beginners to practice key programming concepts like file handling, loops, conditionals, and data structures.
